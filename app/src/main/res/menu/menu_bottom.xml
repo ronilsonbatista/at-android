@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_inicio"
+        android:title="Início"
+        android:icon="@mipmap/ic_launcher" />
+
+    <item
+        android:id="@+id/nav_arquivadas"
+        android:title="Arquivadas"
+        android:icon="@mipmap/ic_launcher" />
+
+</menu>
